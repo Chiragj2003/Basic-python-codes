@@ -35,3 +35,6 @@ A Random Password Generator is a program that creates a secure and unpredictable
 
 ## Tip Calculator
 A Tip Calculator is a program designed to assist users in determining the appropriate gratuity amount for a service. In programming, the Tip Calculator code typically takes input values such as the total bill amount, desired tip percentage, and the number of people splitting the bill. The code then calculates the tip amount and the total amount each person should contribute. This type of code often involves basic arithmetic operations and user input handling to facilitate a quick and accurate calculation of tips in different scenarios.
+
+## Pattern printing 
+Pattern printing in programming involves generating visual designs or shapes using characters (such as asterisks '*'). This practice is valuable for understanding and practicing loop structures and conditional statements. Patterns can range from simple geometric shapes to more complex designs. Common patterns include squares, triangles, pyramids, and various symmetric or asymmetric arrangements of characters. By manipulating loops and conditions, programmers can create diverse and visually appealing patterns, enhancing their problem-solving and algorithmic skills.
